@@ -1,0 +1,6 @@
+{
+  "name": "مدرسة أرمنا الثانوية - نصر النوبة أسوان",
+  "description": "البوابة الإلكترونية الرسمية لمدرسة أرمنا الثانوية بمحافظة أسوان - صرح تعليمي في قلب النوبة يجمع بين أصالة التاريخ وتطلعات المستقبل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
